@@ -1,6 +1,6 @@
 {
   "name": "vue-img-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the img view plugin for vue",
   "main": "index.js",
   "scripts": {
